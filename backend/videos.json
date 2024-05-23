@@ -1,0 +1,164 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+        "descricao": "3 mil visualizações",
+        "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Programação"
+      },
+      {
+        "id": 2,
+        "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+        "descricao": "1,5 mil visualizações",
+        "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Mobile"
+      },
+      {
+        "id": 3,
+        "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+        "descricao": "30 mil visualizações",
+        "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Programação"
+      },
+      {
+        "id": 4,
+        "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+        "descricao": "2,5 mil visualizações",
+        "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Data Science"
+      },
+      {
+        "id": 5,
+        "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+        "descricao": "1,2 mil visualizações",
+        "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Podcasts"
+      },
+      {
+        "id": 6,
+        "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+        "descricao": "1,6 mil visualizações",
+        "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Mobile"
+      },
+      {
+        "id": 7,
+        "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+        "descricao": "3,2 mil visualizações",
+        "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Data Science"
+      },
+      {
+        "id": 8,
+        "titulo": "baNaNa | Memes do JavaScript #2",
+        "descricao": "1,2 mil visualizações",
+        "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Programação"
+      },
+      {
+        "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+        "descricao": "1 mil visualizações",
+        "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 9,
+        "categoria": "Ao Vivo"
+      },
+      {
+        "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+        "descricao": "18 mil visualizações",
+        "url": "https://www.youtube.com/embed/fpth65ts3cw",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 10,
+        "categoria": "Debates"
+      },
+      {
+        "titulo": "Educação coorporativa",
+        "descricao": "4 mil visualizações",
+        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 11,
+        "categoria": "Inovação"
+      },
+      {
+        "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+        "descricao": "7 mil visualizações",
+        "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 12,
+        "categoria": "Front-end"
+      },
+      {
+        "titulo": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
+        "descricao": "12 mil visualizações",
+        "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 13,
+        "categoria": "Inteligência Artificial"
+      },
+      {
+        "titulo": "TIRINGA ELETROCUTADO - SINUCASTIGO!!!",
+        "descricao": "24 milhões visualizações",
+        "url": "https://www.youtube.com/embed/blGR_UM_rgE?si=3jmK_sOklpJT7OmR",
+        "imagem": "https://yt3.ggpht.com/6MN67Ao5kBpVqkvlRgnToLJX4I6W13G1RboPD53Ho16OMY1GaE7xDbCZ6Ip6OtlneOtdvnyv3Qk=s48-c-k-c0x00ffffff-no-rj",
+        "id": 14,
+        "categoria": "Comédia"
+      },
+      {
+        "titulo": "AS INADEQUADAS GÍRIAS",
+        "descricao": "29 milhões visualizações",
+        "url": "https://www.youtube.com/embed/3tR2BxCnncI?si=e9pUgmJ2uvMeZaq1",
+        "imagem": "https://yt3.ggpht.com/6MN67Ao5kBpVqkvlRgnToLJX4I6W13G1RboPD53Ho16OMY1GaE7xDbCZ6Ip6OtlneOtdvnyv3Qk=s48-c-k-c0x00ffffff-no-rj",
+        "id": 15,
+        "categoria": "Comédia"
+      },
+      {
+        "titulo": "Por que De Volta para o Futuro é O FILME PERFEITO? | Gaveta",
+        "descricao": "129 mil visualizações",
+        "url": "https://www.youtube.com/embed/3PA8_yrC_og?si=fanIBgjyjN6QW8Rz",
+        "imagem": "https://yt3.ggpht.com/1uUc5OT51KnlcmN4nAcM-Wr3QSF6aLtp2IONCGHpleaZ6wjoU1inAQ21tdrXu2OxP1r9eyuRgA=s48-c-k-c0x00ffffff-no-rj",
+        "id": 16,
+        "categoria": "Entretenimento"
+      },
+      {
+        "titulo": "VILÕES DOS QUADRINHOS MAIS ESNOBADOS DO CINEMA",
+        "descricao": "134 mil visualizações",
+        "url": "https://www.youtube.com/embed/Mqrp_qtLB3E?si=52WnrLhOIqo6GJD5",
+        "imagem": "https://yt3.ggpht.com/ytc/AIdro_k6x9CJjDdSvhkw9_Qnv9QGR7z4UYwZMBpjHD5UwsmXdA=s48-c-k-c0x00ffffff-no-rj",
+        "id": 17,
+        "categoria": "Entretenimento"
+      },
+      {
+        "titulo": "OLED vs. Mini LED, qual a diferença?",
+        "descricao": "523 mil visualizações",
+        "url": "https://www.youtube.com/embed/PtaoqMGzvXc?si=kf0NAeD9-ATqX-Ug",
+        "imagem": "https://yt3.ggpht.com/Lc1_3K6gFGwQfY5BaVAK82g18Ryv-Z3WJONafw3tukUa9-Htz0WDcEmtZazzMAeihphYFtIlsQ=s48-c-k-c0x00ffffff-no-rj",
+        "id": 18,
+        "categoria": "Novidades"
+      },
+      {
+        "titulo": "ELA MUDA TUDO! - RTX 4090",
+        "descricao": "1,9 milhões visualizações",
+        "url": "https://www.youtube.com/embed/zPM1g5Jrwfs?si=ZLCUIbBJ5erDLEjs",
+        "imagem": "https://yt3.ggpht.com/Lc1_3K6gFGwQfY5BaVAK82g18Ryv-Z3WJONafw3tukUa9-Htz0WDcEmtZazzMAeihphYFtIlsQ=s48-c-k-c0x00ffffff-no-rj",
+        "id": 19,
+        "categoria": "Novidades"
+      },
+      {
+        "titulo": "As coisas que a Inteligência Artificial pode fazer.",
+        "descricao": "418 mil visualizações",
+        "url": "https://www.youtube.com/embed/wVc09e1Y2Xc?si=vX1dnjIQ-nVNRXcy",
+        "imagem": "https://yt3.ggpht.com/Lc1_3K6gFGwQfY5BaVAK82g18Ryv-Z3WJONafw3tukUa9-Htz0WDcEmtZazzMAeihphYFtIlsQ=s48-c-k-c0x00ffffff-no-rj",
+        "id": 20,
+        "categoria": "Inteligência Artificial"
+      }
+    ]
+  }
